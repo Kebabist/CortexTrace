@@ -9,6 +9,7 @@
 A high-performance, real-time 32-channel EEG signal visualization and DSP analyzer built with **PySide6** and **pyqtgraph**. Designed with clinical-grade standards: smooth sub-sample scrolling, real-time Butterworth & IIR notch filters, Density Spectral Array (DSA) spectrograms, and an ultra-responsive dark interface tailored for medical hardware.
 
 Runs seamlessly across **Windows**, **Linux**, and **Raspberry Pi** with zero platform-specific UI code.
+<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/af2c9721-318a-40ce-9ece-7150fb3c2c2f" />
 
 ---
 
