@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![PySide6](https://img.shields.io/badge/UI-PySide6-41CD52.svg?logo=qt&logoColor=white)](https://pyside.org/)
 [![pyqtgraph](https://img.shields.io/badge/Graphics-pyqtgraph-FF6F00.svg)](https://www.pyqtgraph.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20Raspberry%20Pi-lightgrey.svg)](#cross-platform--hardware-tuning)
 
 A high-performance, real-time 32-channel EEG signal visualization and DSP analyzer built with **PySide6** and **pyqtgraph**. Designed with clinical-grade standards: smooth sub-sample scrolling, real-time Butterworth & IIR notch filters, Density Spectral Array (DSA) spectrograms, and an ultra-responsive dark interface tailored for medical hardware.
@@ -148,4 +148,4 @@ Uncomment the `pylsl.StreamInlet` pull loop in `live_lsl.py`. The canvas, ring b
 
 ## 📜 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the Apache License 2.0. See `LICENSE` for more information.
